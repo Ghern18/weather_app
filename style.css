@@ -1,0 +1,23 @@
+/* CSS (styles.css) */
+body {
+    background-color: #FFC1E3;
+    font-family: Arial, sans-serif;
+    color: #6A0573;
+}
+
+#app {
+    text-align: center;
+    padding: 50px;
+}
+
+button {
+    background-color: #B8B8D1;
+    color: #6A0573;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #A79CB1;
+}
